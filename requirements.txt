@@ -1,5 +1,5 @@
 anaconda==0.0.1.1
-bleach==5.0.1; python_version >= "3.7"
+bleach==6.0.0; python_version >= "3.7"
 certifi==2022.9.24; python_version >= "3.7" and python_version < "4"
 charset-normalizer==2.1.1; python_version >= "3.7" and python_version < "4" and python_full_version >= "3.6.0"
 click==8.0.4; python_version >= "3.6"
